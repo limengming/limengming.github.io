@@ -13,5 +13,6 @@ redirect_from:
 ---
 # Education
 
-- I am currently a Master's student at Zhejiang University, advised by Kai Bu. Before that, I received a Bachelor’s Degree at Guangdong Ocean University in July. 2020. My research interests involve Computer Architecture. I hope to dive deep to explore the unknown.
+- *Zhejiang University*, Hangzhou, China                                                           Sep. 2020 - 
+
 
