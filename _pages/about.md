@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Mengming Li's Account's home on the web!
+- This is Mengming Li's Account's home on the web!
 
 
