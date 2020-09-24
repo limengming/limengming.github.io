@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-- This is Mengming Li's Account's home on the web!
+- I am currently a Master's student at Zhejiang University, advised by Kai Bu. Before that, I received a Bachelor’s Degree at Guangdong Ocean University in July.2020. My research interests involve Computer Architecture. I hope to dive deep to explore the unknown.
 
 
