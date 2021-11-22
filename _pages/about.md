@@ -13,6 +13,6 @@ redirect_from:
 ---
 # Education
 
-- *Zhejiang University*, Hangzhou, China                                                           Sep. 2020 - 
+- *Zhejiang University*, Hangzhou, China                                                           Sep. 2020 - Mar. 2023
 
 
