@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a Master's student at Zhejiang University, advised by Kai Bu. Before that, I received a Bachelor’s Degree at Guangdong Ocean University in July. 2020. My research interests involve Computer Architecture. I hope to dive deep to explore the unknown.
+Hi~ I am Mengming Li (李孟明 in Chinese). I am currently a Master's student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor's degree of Engineering from School of Computer Science, Guangdong Ocuean University.
 
 ---
 # Research Interests
