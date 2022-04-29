@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Mengming Li (李孟明 in Chinese). I am currently a Master's student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor's degree of Engineering from School of Computer Science, Guangdong Ocuean University.
+Hi~ I am Mengming Li (李孟明 in Chinese). I am currently a Master student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor degree of Engineering from School of Computer Science, Guangdong Ocean University.
 
 ---
 # Research Interests
