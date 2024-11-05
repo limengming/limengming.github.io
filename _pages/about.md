@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Mengming Li (李孟明 in Chinese). I am currently a Master student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor degree of Engineering from School of Computer Science, Guangdong Ocean University.
+Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my Master's degree at Zhejiang University, advised by Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/), and my bachelor's degree from Guangdong Ocean University.
 
 ---
 # Research Interests
 
-My research interests include computer architecture and security, with a focus on mirco-architectural attacks and defenses.
+My research interests include computer architecture, with a focus on CPU memory system optimization.
 
 # Publication
+
+
 
  * **Mengming Li**, Chenlu Miao, Yilong Yang, and Kai Bu, &quot;[unXpec: Breaking Undo-based Safe Speculation](/files/unXpec.pdf)&quot;. In *28th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2022**). (The first HPCA paper from Zhejiang University)
 
