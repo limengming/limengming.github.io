@@ -15,24 +15,21 @@ Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electro
 
 My research interests include computer architecture, with a focus on memory system optimization.
 
-# Publication (First-Author)
+# Publication
 
  * **Mengming Li**, Qijun Zhang, Yongqing Ren, and Zhiyao Xie, &quot;[Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency]()&quot;. In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
-   
- * **Mengming Li**, Kai Bu, Chenlu Miao, and Kui Ren, &quot;[TreasureCache: Hiding Cache Evictions against Side-Channel Attacks]()&quot;. In *IEEE Transactions on Dependable and Secure Computing* (**TDSC**), January 2024.
-
- * **Mengming Li**, Chenlu Miao, Yilong Yang, and Kai Bu, &quot;[unXpec: Breaking Undo-based Safe Speculation](/files/unXpec.pdf)&quot;. In *28th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2022**). (The first HPCA paper from Zhejiang University)
-
-# Publication (Co-Author)
 
  * Qijun Zhang, **Mengming Li**, Andrea Mondelli, and Zhiyao Xie, &quot;[An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
  * Qijun Zhang, **Mengming Li**, Yao Lu, and Zhiyao Xie, &quot;[FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
-
- * Chenlu Miao, Kai Bu, **Mengming Li**, Shaowu Mao, and Jianwei Jia, &quot;[SwiftDir: Secure Cache Coherence without Overprotection]()&quot;. In *55th IEEE/ACM International Symposium on Microarchitecture* (**MICRO 2022**).
+   
+ * **Mengming Li**, Kai Bu, Chenlu Miao, and Kui Ren, &quot;[TreasureCache: Hiding Cache Evictions against Side-Channel Attacks]()&quot;. In *IEEE Transactions on Dependable and Secure Computing* (**TDSC**), January 2024.
 
  * Jingsen Zhu, **Mengming Li**, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song, &quot;[Hitchhiker: Accelerating ORAM With Dynamic Scheduling]()&quot;. In *IEEE Transactions on Computers* (**TC**), September 2022.
 
- 
+ * **Mengming Li**, Chenlu Miao, Yilong Yang, and Kai Bu, &quot;[unXpec: Breaking Undo-based Safe Speculation](/files/unXpec.pdf)&quot;. In *28th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2022**). (The first HPCA paper from Zhejiang University)
 
+ * Chenlu Miao, Kai Bu, **Mengming Li**, Shaowu Mao, and Jianwei Jia, &quot;[SwiftDir: Secure Cache Coherence without Overprotection]()&quot;. In *55th IEEE/ACM International Symposium on Microarchitecture* (**MICRO 2022**).
+
+ 
 
