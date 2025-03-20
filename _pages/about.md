@@ -23,7 +23,7 @@ My research interests include computer architecture, with a focus on memory syst
 
  * Qijun Zhang, **Mengming Li**, Yao Lu, and Zhiyao Xie, &quot;[FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
    
- * **Mengming Li**, Kai Bu, Chenlu Miao, and Kui Ren, &quot;[TreasureCache: Hiding Cache Evictions against Side-Channel Attacks]()&quot;. In *IEEE Transactions on Dependable and Secure Computing* (**TDSC**), January 2024.
+ * **Mengming Li**, Kai Bu, Chenlu Miao, and Kui Ren, &quot;[TreasureCache: Hiding Cache Evictions against Side-Channel Attacks](/files/TreasureCache.pdf)&quot;. In *IEEE Transactions on Dependable and Secure Computing* (**TDSC**), January 2024.
 
  * Jingsen Zhu, **Mengming Li**, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song, &quot;[Hitchhiker: Accelerating ORAM With Dynamic Scheduling]()&quot;. In *IEEE Transactions on Computers* (**TC**), September 2022.
 
