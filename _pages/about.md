@@ -13,7 +13,7 @@ Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electro
 ---
 # Research Interests
 
-My research interests include computer architecture, with a focus on memory system optimization.
+My research interests include computer architecture, with a focus on memory system optimization and profile-guided optimization.
 
 # Publication
 
