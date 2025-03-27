@@ -26,6 +26,8 @@ My research interests include computer architecture, with a focus on memory syst
  * Qijun Zhang, **Mengming Li**, Andrea Mondelli, and Zhiyao Xie, &quot;[An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
  * Qijun Zhang, **Mengming Li**, Yao Lu, and Zhiyao Xie, &quot;[FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
+
+ * Qijun Zhang, Yao Lu, **Mengming Li**, and Zhiyao Xie, &quot;[AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling]()&quot;. In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
    
  * **Mengming Li**, Kai Bu, Chenlu Miao, and Kui Ren, &quot;[TreasureCache: Hiding Cache Evictions against Side-Channel Attacks](/files/TreasureCache.pdf)&quot;. In *IEEE Transactions on Dependable and Secure Computing* (**TDSC**), January 2024.
 
