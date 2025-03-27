@@ -83,10 +83,10 @@ author:
   name             : "Mengming Li (李孟明)"
   avatar           : "profile.png"
   bio              : "PhD Student @ HKUST"
-  location         : "Hongkong, China"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=dxisIJ0AAAAJ&hl=en&oi=ao"
   email            : "mengming.li@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
