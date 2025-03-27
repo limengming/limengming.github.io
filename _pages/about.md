@@ -21,6 +21,8 @@ My research interests include computer architecture, with a focus on memory syst
 
  * **Mengming Li**, Qijun Zhang, Yongqing Ren, and Zhiyao Xie, &quot;[Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency](/files/Alecto.pdf)&quot;. In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
 
+ * **Mengming Li**, Wenji Fang, Qijun Zhang, and Zhiyao Xie, &quot;[SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model]()&quot;. In *3th International Symposium of EDA* (**ISEDA 2025**).
+
  * Qijun Zhang, **Mengming Li**, Andrea Mondelli, and Zhiyao Xie, &quot;[An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
  * Qijun Zhang, **Mengming Li**, Yao Lu, and Zhiyao Xie, &quot;[FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
