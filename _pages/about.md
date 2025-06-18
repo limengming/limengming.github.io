@@ -16,7 +16,7 @@ Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electro
 - Cache System Optimization
 - Profile-Guided Optimization (PGO)
 - Side Channel Attack and Defense
-- LLM for Chip Design
+- AI for Chip Design
 
 # Publication
 
