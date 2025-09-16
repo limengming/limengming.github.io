@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mengming Li (李孟明)"
-  avatar           : "/files/me.png"
+  avatar           : "me.png"
   bio              : "PhD Student @ HKUST"
   location         : "Hong Kong, China"
   employer         :
