@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my Master's degree at Zhejiang University, advised by Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/), and my bachelor's degree from Guangdong Ocean University. I have authored multiple papers published in top-tier computer architecture conferences, including ISCA, MICRO, and HPCA.
+Hi~ I am Mengming Li (李孟明 in Chinese). I am a Ph.D. student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my Master's degree at Zhejiang University, advised by Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/), and my bachelor's degree from Guangdong Ocean University. I have authored multiple papers published in top-tier computer architecture conferences, including ISCA, MICRO, HPCA and ASPLOS.
 
 ---
 # Research Interests
