@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mengming Li (李孟明)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mengming Li (李孟明)"
 description              : &description "Master at Zhejiang University"

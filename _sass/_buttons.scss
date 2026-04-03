@@ -10,14 +10,15 @@
   /* default button */
   display: inline-block;
   margin-bottom: 0.25em;
-  padding: 0.5em 1em;
+  margin-right: 0.15em;
+  padding: 0.125em 0.2em;
   color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
-  text-decoration: none;
-  background-color: $primary-color;
+  text-decoration: none !important;
+  background-color: $twitter-color;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
@@ -42,6 +43,52 @@
 
     + .btn--block {
       margin-top: 0.25em;
+    }
+  }
+
+  /* paper link button */
+
+  &--paper {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    margin-right: 0.15em;
+    padding: 0.125em 0.2em;
+    color: #fff !important;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none !important;
+    background-color: $success-color;
+    border: 0 !important;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      background-color: mix(#000, $success-color, 20%);
+    }
+  }
+
+  /* code link button */
+
+  &--code {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    margin-right: 0.15em;
+    padding: 0.125em 0.2em;
+    color: #fff !important;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none !important;
+    background-color: #008CBA;
+    border: 0 !important;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover {
+      background-color: mix(#000, #008CBA, 20%);
     }
   }
 

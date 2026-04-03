@@ -84,6 +84,12 @@
     }
   }
 
+  /* Publication list items styling */
+  > ul > li {
+    margin-bottom: 0.8em;
+    line-height: 1.6;
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
