@@ -10,7 +10,7 @@ redirect_from:
 Ph.D. Candidate    
 *Electronic and Computer Engineering Department, [HKUST](https://hkust.edu.hk/)*
 
-Mengming Li (李孟明) is a Ph.D. candidate at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, he received his Master's degree at Zhejiang University, advised by Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/), and his Bachelor's degree from Guangdong Ocean University. He has authored multiple papers published in top-tier computer architecture conferences, including **ISCA**, **MICRO**, **HPCA**, and **ASPLOS**.
+Mengming Li (李孟明) is a Ph.D. candidate at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, he received his Master's degree at Zhejiang University, advised by Prof. [Kai Bu](https://list.zju.edu.cn/kaibu/), and his Bachelor's degree from Guangdong Ocean University. He has authored multiple papers published in top-tier computer architecture conferences, including ISCA, MICRO, HPCA, and ASPLOS.
 
 
 Research Interests
