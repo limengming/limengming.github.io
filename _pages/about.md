@@ -23,6 +23,9 @@ Research Interests
 
 <span id="publication"></span> Selected Publications
 ======
+
+* **Mengming Li**, Chenlu Miao, Buqing Xu, Qijun Zhang, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie, &quot;ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses&quot;. In *53th Annual International Symposium on Computer Architecture* (**ISCA 2026**).
+
 * Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, **Mengming Li\***, Zhiyao Xie, and Yuan Xie, &quot;PF-LLM: Large Language Model Hinted Hardware Prefetching&quot;. In *ACM International Conference on Architectural Support for Programming Languages and Operating Systems* (**ASPLOS 2026**) (**\*Corresponding Author**) <span style="color:red">**(Best Paper Award)**</span>
 
 * **Mengming Li**, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie, &quot;Profile-Guided Temporal Prefetching&quot;. In *52th Annual International Symposium on Computer Architecture* (**ISCA 2025**). [PDF](/files/Prophet.pdf){: .btn--paper}
