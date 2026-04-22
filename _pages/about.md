@@ -56,7 +56,7 @@ Research Interests
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="/publications/">ISEDA'25</a> SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</p>
+  <p class="publication-title-line"><a class="btn" href="https://www.eda2.com/iseda/index.html">ISEDA'25</a> SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Wenji Fang, Qijun Zhang, and Zhiyao Xie</p>
   <p class="publication-meta-line">International Symposium of EDA (ISEDA), 2025.</p>
 </div>
@@ -103,7 +103,7 @@ Research Interests
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="/publications/">TC'22</a> Hitchhiker: Accelerating ORAM With Dynamic Scheduling</p>
+  <p class="publication-title-line"><a class="btn" href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=12">TC'22</a> Hitchhiker: Accelerating ORAM With Dynamic Scheduling</p>
   <p class="publication-authors-line">Jingsen Zhu, <strong>Mengming Li</strong>, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song</p>
   <p class="publication-meta-line">IEEE Transactions on Computers (TC), 2022.</p>
 </div>
