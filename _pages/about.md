@@ -24,7 +24,7 @@ Research Interests
 <span id="publication"></span> Selected Publications
 ======
 
-<p class="page-intro">A complete list of publications is available on my <a href="/publications/">Publications</a> page.</p>
+A complete list of publications is available on my [Publications](/publications/) page.
 
 <p class="publication-year-title">In 2026:</p>
 
@@ -36,7 +36,7 @@ Research Interests
 
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://www.asplos-conference.org/">ASPLOS'26</a> PF-LLM: Large Language Model Hinted Hardware Prefetching</p>
-  <p class="publication-authors-line">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <strong>Mengming Li*</strong>, Zhiyao Xie, and Yuan Xie <strong>(* Corresponding Author)</strong></p>
+  <p class="publication-authors-line">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <strong>Mengming Li†</strong>, Zhiyao Xie, and Yuan Xie <strong>(† Corresponding Author)</strong></p>
   <p class="publication-meta-line">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.</p>
   <p class="publication-note-line">Best Paper Award</p>
 </div>
