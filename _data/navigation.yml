@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /#publication
+    url: /publications/
 
   - title: "CV"
     url: /files/CV_Mengming.pdf

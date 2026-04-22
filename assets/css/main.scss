@@ -62,6 +62,14 @@
   margin: 0.15rem 0;
 }
 
+/* Reset Minimal Mistakes' .page__content sibling-paragraph rules
+   (negative top margin + text-indent) so publication entries on the
+   home page render the same as on the /publications/ page. */
+.publication-entry p + p {
+  margin-top: 0.15rem;
+  text-indent: 0;
+}
+
 .publication-title-line {
   color: #00008b;
   font-size: 1em;

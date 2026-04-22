@@ -61,6 +61,12 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
+  <p class="publication-title-line"><a class="btn" href="https://www.aspdac.com/">ASPDAC'25</a> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</p>
+  <p class="publication-authors-line">Wenji Fang, <strong>Mengming Li</strong>, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and Zhiyao Xie</p>
+  <p class="publication-meta-line">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</p>
+</div>
+
+<div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://www.dac.com/">DAC'25</a> AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</p>
   <p class="publication-authors-line">Qijun Zhang, Yao Lu, <strong>Mengming Li</strong>, and Zhiyao Xie</p>
   <p class="publication-meta-line">ACM/IEEE Design Automation Conference (DAC), 2025.</p>
@@ -72,6 +78,12 @@ author_profile: true
   <p class="publication-title-line"><a class="btn" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">TDSC'24</a> TreasureCache: Hiding Cache Evictions against Side-Channel Attacks <a href="/files/TreasureCache.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Kai Bu, Chenlu Miao, and Kui Ren</p>
   <p class="publication-meta-line">IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.</p>
+</div>
+
+<div class="publication-entry">
+  <p class="publication-title-line"><a class="btn" href="https://www.iccad.com/">ICCAD'24</a> OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation</p>
+  <p class="publication-authors-line">Shang Liu, Yao Lu, Wenji Fang, <strong>Mengming Li</strong>, and Zhiyao Xie</p>
+  <p class="publication-meta-line">IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024.</p>
 </div>
 
 <p class="publication-year-title">In 2022:</p>
