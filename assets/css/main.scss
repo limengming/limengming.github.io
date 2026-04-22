@@ -63,7 +63,7 @@
 }
 
 .publication-title-line {
-  color: DarkBlue;
+  color: darkblue;
   font-size: 1em;
   font-weight: 400;
 }
@@ -82,17 +82,13 @@
 }
 
 .publication-authors-line {
-  color: DimGray;
+  color: dimgray;
   font-size: 85%;
 }
 
 .publication-meta-line {
-  font-size: 95%;
-}
-
-.publication-meta-line,
-.publication-note-line {
   color: #555;
+  font-size: 95%;
 }
 
 .publication-note-line {
