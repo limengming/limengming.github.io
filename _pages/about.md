@@ -26,8 +26,6 @@ Research Interests
 
 A complete list of publications is available on my [Publications](/publications/) page.
 
-<p class="publication-year-title">In 2026:</p>
-
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2026/">ISCA'26</a> ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Chenlu Miao, Buqing Xu, Qijun Zhang, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie</p>
@@ -40,8 +38,6 @@ A complete list of publications is available on my [Publications](/publications/
   <p class="publication-meta-line">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.</p>
   <p class="publication-note-line">Best Paper Award</p>
 </div>
-
-<p class="publication-year-title">In 2025:</p>
 
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2025/">ISCA'25</a> Profile-Guided Temporal Prefetching <a href="/files/Prophet.pdf">[PDF]</a></p>
@@ -79,15 +75,11 @@ A complete list of publications is available on my [Publications](/publications/
   <p class="publication-meta-line">ACM/IEEE Design Automation Conference (DAC), 2025.</p>
 </div>
 
-<p class="publication-year-title">In 2024:</p>
-
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">TDSC'24</a> TreasureCache: Hiding Cache Evictions against Side-Channel Attacks <a href="/files/TreasureCache.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Kai Bu, Chenlu Miao, and Kui Ren</p>
   <p class="publication-meta-line">IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.</p>
 </div>
-
-<p class="publication-year-title">In 2022:</p>
 
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://hpca-conf.org/2022/">HPCA'22</a> unXpec: Breaking Undo-based Safe Speculation <a href="/files/unXpec.pdf">[PDF]</a></p>
