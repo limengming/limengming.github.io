@@ -53,53 +53,49 @@
 
 .publication-entry {
   margin-bottom: 1rem;
-}
 
-.publication-title-line,
-.publication-authors-line,
-.publication-meta-line,
-.publication-note-line {
-  margin: 0.15rem 0;
-}
+  /* Reset Minimal Mistakes' .page__content paragraph spacing rules so
+     homepage publication entries match the /publications/ page. */
+  p {
+    margin: 0.15rem 0;
+    text-indent: 0;
+  }
 
-/* Reset Minimal Mistakes' .page__content sibling-paragraph rules
-   (negative top margin + text-indent) so publication entries on the
-   home page render the same as on the /publications/ page. */
-.publication-entry p + p {
-  margin-top: 0.15rem;
-  text-indent: 0;
-}
+  p + p {
+    margin-top: 0.15rem;
+  }
 
-.publication-title-line {
-  color: #00008b;
-  font-size: 1em;
-  font-weight: 400;
-}
+  .publication-title-line {
+    color: #00008b;
+    font-size: 1em;
+    font-weight: 400;
+  }
 
-.publication-title-line .btn {
-  margin-bottom: 0.25em;
-  margin-right: 0.15em;
-  padding: 0.125em 0.2em;
-  color: rgb(255, 255, 255) !important;
-  font-size: 0.75em;
-  font-weight: bold;
-  text-decoration: none !important;
-  background-color: #55acee;
-  border: 0 !important;
-  vertical-align: baseline;
-}
+  .publication-title-line .btn {
+    margin-bottom: 0.25em;
+    margin-right: 0.15em;
+    padding: 0.125em 0.2em;
+    color: rgb(255, 255, 255) !important;
+    font-size: 0.75em;
+    font-weight: bold;
+    text-decoration: none !important;
+    background-color: #55acee;
+    border: 0 !important;
+    vertical-align: baseline;
+  }
 
-.publication-authors-line {
-  color: #696969;
-  font-size: 85%;
-}
+  .publication-authors-line {
+    color: #696969;
+    font-size: 85%;
+  }
 
-.publication-meta-line {
-  color: #555;
-  font-size: 95%;
-}
+  .publication-meta-line {
+    color: #555;
+    font-size: 95%;
+  }
 
-.publication-note-line {
-  color: red;
-  font-size: 90%;
+  .publication-note-line {
+    color: red;
+    font-size: 90%;
+  }
 }
