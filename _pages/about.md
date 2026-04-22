@@ -44,13 +44,13 @@ Research Interests
 <p class="publication-year-title">In 2025:</p>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="/files/Prophet.pdf">ISCA'25</a> Profile-Guided Temporal Prefetching</p>
+  <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2025/">ISCA'25</a> Profile-Guided Temporal Prefetching <a href="/files/Prophet.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie</p>
   <p class="publication-meta-line">International Symposium on Computer Architecture (ISCA), 2025.</p>
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="/files/Alecto.pdf">HPCA'25</a> Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</p>
+  <p class="publication-title-line"><a class="btn" href="https://hpca-conf.org/2025/">HPCA'25</a> Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency <a href="/files/Alecto.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Qijun Zhang, Yongqing Ren, and Zhiyao Xie</p>
   <p class="publication-meta-line">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025.</p>
 </div>
@@ -82,7 +82,7 @@ Research Interests
 <p class="publication-year-title">In 2024:</p>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="/files/TreasureCache.pdf">TDSC'24</a> TreasureCache: Hiding Cache Evictions against Side-Channel Attacks</p>
+  <p class="publication-title-line"><a class="btn" href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">TDSC'24</a> TreasureCache: Hiding Cache Evictions against Side-Channel Attacks <a href="/files/TreasureCache.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Kai Bu, Chenlu Miao, and Kui Ren</p>
   <p class="publication-meta-line">IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.</p>
 </div>
@@ -90,7 +90,7 @@ Research Interests
 <p class="publication-year-title">In 2022:</p>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://hpca-conf.org/2022/">HPCA'22</a> unXpec: Breaking Undo-based Safe Speculation</p>
+  <p class="publication-title-line"><a class="btn" href="https://hpca-conf.org/2022/">HPCA'22</a> unXpec: Breaking Undo-based Safe Speculation <a href="/files/unXpec.pdf">[PDF]</a></p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Chenlu Miao, Yilong Yang, and Kai Bu</p>
   <p class="publication-meta-line">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022.</p>
   <p class="publication-note-line">The first HPCA paper from Zhejiang University</p>
