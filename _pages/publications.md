@@ -22,7 +22,7 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://www.asplos-conference.org/">ASPLOS'26</a> PF-LLM: Large Language Model Hinted Hardware Prefetching</p>
+  <p class="publication-title-line"><a class="btn" href="https://www.asplos-conference.org/asplos2026/index.html">ASPLOS'26</a> PF-LLM: Large Language Model Hinted Hardware Prefetching</p>
   <p class="publication-authors-line">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <strong>Mengming Li†</strong>, Zhiyao Xie, and Yuan Xie <strong>(† Corresponding Author)</strong></p>
   <p class="publication-meta-line">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.</p>
   <p class="publication-note-line">Best Paper Award</p>
@@ -43,7 +43,7 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://www.eda2.com/iseda/index.html">ISEDA'25</a> SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</p>
+  <p class="publication-title-line"><a class="btn" href="https://www.eda2.com/iseda2025/index.html">ISEDA'25</a> SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Wenji Fang, Qijun Zhang, and Zhiyao Xie</p>
   <p class="publication-meta-line">International Symposium of EDA (ISEDA), 2025.</p>
 </div>
@@ -55,14 +55,8 @@ author_profile: true
 </div>
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://www.aspdac.com/">ASPDAC'25</a> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling</p>
+  <p class="publication-title-line"><a class="btn" href="https://www.aspdac.com/aspdac2025">ASPDAC'25</a> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling</p>
   <p class="publication-authors-line">Qijun Zhang, <strong>Mengming Li</strong>, Yao Lu, and Zhiyao Xie</p>
-  <p class="publication-meta-line">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</p>
-</div>
-
-<div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://www.aspdac.com/">ASPDAC'25</a> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</p>
-  <p class="publication-authors-line">Wenji Fang, <strong>Mengming Li</strong>, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and Zhiyao Xie</p>
   <p class="publication-meta-line">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</p>
 </div>
 
@@ -70,6 +64,12 @@ author_profile: true
   <p class="publication-title-line"><a class="btn" href="https://www.dac.com/">DAC'25</a> AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</p>
   <p class="publication-authors-line">Qijun Zhang, Yao Lu, <strong>Mengming Li</strong>, and Zhiyao Xie</p>
   <p class="publication-meta-line">ACM/IEEE Design Automation Conference (DAC), 2025.</p>
+</div>
+
+<div class="publication-entry">
+  <p class="publication-title-line"><a class="btn" href="https://www.aspdac.com/aspdac2025">ASPDAC'25</a> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</p>
+  <p class="publication-authors-line">Zhiyuan Yan, Wenji Fang, <strong>Mengming Li</strong>, Min Li, Shang Liu, Zhiyao Xie, Hongce Zhang</p>
+  <p class="publication-meta-line">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</p>
 </div>
 
 <p class="publication-year-title">In 2024:</p>
