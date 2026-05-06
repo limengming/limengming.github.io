@@ -27,7 +27,7 @@ Research Interests
 A complete list of publications is available on my [Publications](/publications/) page.
 
 <div class="publication-entry">
-  <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2026/">ISCA'26</a> ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</p>
+  <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2026/">ISCA'26</a> ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses <a href="/files/ICP.pdf">[PDF]</a> </p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Chenlu Miao, Buqing Xu, Qijun Zhang, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie</p>
   <p class="publication-meta-line">International Symposium on Computer Architecture (ISCA), 2026.</p>
 </div>
