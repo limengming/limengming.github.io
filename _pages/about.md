@@ -99,3 +99,11 @@ A complete list of publications is available on my [Publications](/publications/
   <p class="publication-authors-line">Jingsen Zhu, <strong>Mengming Li</strong>, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song</p>
   <p class="publication-meta-line">IEEE Transactions on Computers (TC), 2022.</p>
 </div>
+
+Honors and Awards
+======
+* ACM ASPLOS 2026 Best Paper Award, 2026
+* HKUST RedBird Academic Excellence Award, 2026
+* ISCA Student Travel Grant, 2025
+* Outstanding Graduates of Zhejiang University and Zhejiang Province, 2023
+* National Scholarship, 2022
