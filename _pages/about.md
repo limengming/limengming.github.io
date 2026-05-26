@@ -102,7 +102,7 @@ A complete list of publications is available on my [Publications](/publications/
 
 Honors and Awards
 ======
-* ACM ASPLOS 2026 Best Paper Award, 2026
+* ASPLOS 2026 Best Paper Award, 2026
 * HKUST RedBird Academic Excellence Award, 2026
 * ISCA Student Travel Grant, 2025
 * Outstanding Graduates of Zhejiang University and Zhejiang Province, 2023
