@@ -16,7 +16,7 @@ Mengming Li (李孟明) is a Ph.D. candidate at the Electronic and Computer Engi
 Research Interests
 ======
 * Cache System Optimization
-* Profile-Guided Optimization (PGO)
+* Data-Driven Optimization for CPU
 * Side Channel Attack and Defense
 * AI for Chip Design
 
