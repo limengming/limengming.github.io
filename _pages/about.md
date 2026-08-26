@@ -30,10 +30,10 @@ Research Interests
       <span></span><span></span><span></span><span></span>
     </div>
     <div class="experience-content">
+      <p class="experience-company experience-company--primary">Microsoft Research Asia (MSRA)</p>
       <p class="experience-role">Research Intern</p>
-      <p class="experience-company">Microsoft · Internship</p>
-      <p class="experience-meta">Jul 2026 – Present · 2 mos · Beijing, China</p>
-      <p class="experience-description">System Group, MSRA Honorary Scholar<br><strong>AI Infra</strong></p>
+      <p class="experience-meta">Jul 2026 – Present</p>
+      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</strong></p>
     </div>
   </div>
 
@@ -41,17 +41,16 @@ Research Interests
     <div class="experience-logo experience-logo--intel" aria-hidden="true">intel.</div>
     <div class="experience-content">
       <p class="experience-company experience-company--primary">Intel Corporation</p>
-      <p class="experience-meta">2 yrs 5 mos · Beijing, China</p>
       <div class="experience-roles">
         <div class="experience-role-item">
           <p class="experience-role">CPU Research Scientist</p>
           <p class="experience-company">Full-time</p>
-          <p class="experience-meta">Apr 2023 – Sep 2024 · 1 yr 6 mos</p>
+          <p class="experience-meta">Apr 2023 – Sep 2024</p>
         </div>
         <div class="experience-role-item">
           <p class="experience-role">Research Intern</p>
           <p class="experience-company">Internship</p>
-          <p class="experience-meta">May 2022 – Mar 2023 · 11 mos</p>
+          <p class="experience-meta">May 2022 – Mar 2023</p>
         </div>
       </div>
     </div>
