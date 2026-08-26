@@ -137,7 +137,7 @@ A complete list of publications is available on my [Publications](/publications/
   </div>
 </div>
 
-Honors and Awards
+<span id="awards"></span> Honors and Awards
 ======
 * ASPLOS 2026 Best Paper Award, 2026
 * HKUST RedBird Academic Excellence Award, 2026
