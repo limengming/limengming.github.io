@@ -17,6 +17,7 @@ Research Interests
 ======
 * Cache System Optimization
 * Data-Driven Optimization for CPU
+* AI Infrastructure
 * Side Channel Attack and Defense
 * AI for Chip Design
 
