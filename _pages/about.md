@@ -33,7 +33,7 @@ Research Interests
       <p class="experience-company experience-company--primary">Microsoft Research Asia (MSRA)</p>
       <p class="experience-role">Research Intern</p>
       <p class="experience-meta">Jul 2026 – Present</p>
-      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</strong></p>
+      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</p>
     </div>
   </div>
 
