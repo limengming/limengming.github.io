@@ -32,7 +32,7 @@ Research Interests
     <div class="experience-content">
       <p class="experience-role">Research Intern</p>
       <p class="experience-company">Microsoft · Internship</p>
-      <p class="experience-meta">Jul 2026 – Present · Beijing, China</p>
+      <p class="experience-meta">Jul 2026 – Present · 2 mos · Beijing, China</p>
       <p class="experience-description">System Group, MSRA Honorary Scholar<br><strong>AI Infra</strong></p>
     </div>
   </div>
