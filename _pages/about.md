@@ -22,43 +22,6 @@ Research Interests
 * AI for Chip Design
 
 
-<span id="experience"></span> Work Experience
-======
-
-<div class="experience-list">
-  <div class="experience-entry">
-    <div class="experience-logo experience-logo--microsoft" aria-hidden="true">
-      <span></span><span></span><span></span><span></span>
-    </div>
-    <div class="experience-content">
-      <p class="experience-company experience-company--primary">Microsoft Research Asia (MSRA)</p>
-      <p class="experience-role">Research Intern</p>
-      <p class="experience-meta">Jul 2026 – Present</p>
-      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</p>
-    </div>
-  </div>
-
-  <div class="experience-entry">
-    <div class="experience-logo experience-logo--intel" aria-hidden="true">intel.</div>
-    <div class="experience-content">
-      <p class="experience-company experience-company--primary">Intel Corporation</p>
-      <div class="experience-roles">
-        <div class="experience-role-item">
-          <p class="experience-role">CPU Research Scientist</p>
-          <p class="experience-company">Full-time</p>
-          <p class="experience-meta">Apr 2023 – Sep 2024</p>
-        </div>
-        <div class="experience-role-item">
-          <p class="experience-role">Research Intern</p>
-          <p class="experience-company">Internship</p>
-          <p class="experience-meta">May 2022 – Mar 2023</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <span id="publication"></span> Selected Publications
 ======
 
@@ -136,6 +99,42 @@ A complete list of publications is available on my [Publications](/publications/
   <p class="publication-title-line"><a class="btn" href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=12">TC'22</a> Hitchhiker: Accelerating ORAM With Dynamic Scheduling</p>
   <p class="publication-authors-line">Jingsen Zhu, <strong>Mengming Li</strong>, Xingjian Zhang, Kai Bu, Miao Zhang, and Tianqi Song</p>
   <p class="publication-meta-line">IEEE Transactions on Computers (TC), 2022.</p>
+</div>
+
+<span id="experience"></span> Work Experience
+======
+
+<div class="experience-list">
+  <div class="experience-entry">
+    <div class="experience-logo experience-logo--microsoft" aria-hidden="true">
+      <span></span><span></span><span></span><span></span>
+    </div>
+    <div class="experience-content">
+      <p class="experience-company experience-company--primary">Microsoft Research Asia (MSRA)</p>
+      <p class="experience-role">Research Intern</p>
+      <p class="experience-meta">Jul 2026 – Present</p>
+      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</p>
+    </div>
+  </div>
+
+  <div class="experience-entry">
+    <div class="experience-logo experience-logo--intel" aria-hidden="true">intel.</div>
+    <div class="experience-content">
+      <p class="experience-company experience-company--primary">Intel Corporation</p>
+      <div class="experience-roles">
+        <div class="experience-role-item">
+          <p class="experience-role">CPU Research Scientist</p>
+          <p class="experience-company">Full-time</p>
+          <p class="experience-meta">Apr 2023 – Sep 2024</p>
+        </div>
+        <div class="experience-role-item">
+          <p class="experience-role">Research Intern</p>
+          <p class="experience-company">Internship</p>
+          <p class="experience-meta">May 2022 – Mar 2023</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 Honors and Awards
