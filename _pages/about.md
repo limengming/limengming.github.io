@@ -120,7 +120,7 @@ A complete list of publications is available on my [Publications](/publications/
   <div class="experience-entry">
     <div class="experience-logo experience-logo--intel" aria-hidden="true">intel.</div>
     <div class="experience-content">
-      <p class="experience-company experience-company--primary">Intel Corporation</p>
+      <p class="experience-company experience-company--primary">Intel Labs</p>
       <div class="experience-roles">
         <div class="experience-role-item">
           <p class="experience-role">CPU Research Scientist</p>
