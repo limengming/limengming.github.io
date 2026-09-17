@@ -132,7 +132,7 @@ A complete list of publications is available on my [Publications](/publications/
           <p class="experience-role">Research Intern</p>
           <p class="experience-company">Internship</p>
           <p class="experience-meta">May 2022 – Mar 2023</p>
-          <p class="experience-description">Mentor: Yongqing Ren</p>
+          <p>Mentor: <a href="https://www.linkedin.com/in/ren-yongqing-28a1a027/">Yongqing Ren</a></p>
         </div>
       </div>
     </div>
