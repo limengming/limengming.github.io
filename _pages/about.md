@@ -114,7 +114,7 @@ A complete list of publications is available on my [Publications](/publications/
       <p class="experience-role">Research Intern</p>
       <p class="experience-meta">Jul 2026 – Present</p>
       <p>Mentor: <a href="https://fanyangcs.github.io/">Fan Yang</a></p>
-      <p class="experience-description">AI Infra, System Group, MSRA Honorary Scholar</p>
+      <p class="experience-description">AI Infra, System Group, Honorary Scholars Talent Program</p>
     </div>
   </div>
 
