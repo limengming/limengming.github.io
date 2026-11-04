@@ -29,7 +29,7 @@ A complete list of publications is available on my [Publications](/publications/
 
 <div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://conf.researchr.org/home/hpca-2027">HPCA'27</a> GPS: Guiding Phase-Level Prefetcher Selection with Data-Driven Method </p>
-  <p class="publication-authors-line"> Buqing Xu\*, <strong>Mengming Li\*</strong>, Qijun Zhang, Ziyan Guo, and Zhiyao Xie (\*Equal Contribution) </p>
+  <p class="publication-authors-line"> Buqing Xu*, <strong>Mengming Li*</strong>, Qijun Zhang, Ziyan Guo, and Zhiyao Xie (*Equal Contribution) </p>
   <p class="publication-meta-line">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027.</p>
 </div>
 
