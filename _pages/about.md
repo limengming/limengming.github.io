@@ -28,6 +28,12 @@ Research Interests
 A complete list of publications is available on my [Publications](/publications/) page.
 
 <div class="publication-entry">
+  <p class="publication-title-line"><a class="btn" href="https://conf.researchr.org/home/hpca-2027">HPCA'27</a> GPS: Guiding Phase-Level Prefetcher Selection with Data-Driven Method </p>
+  <p class="publication-authors-line"> Buqing Xu\*, <strong>Mengming Li\*</strong>, Qijun Zhang, Ziyan Guo, and Zhiyao Xie (\*Equal Contribution) </p>
+  <p class="publication-meta-line">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027.</p>
+</div>
+
+<div class="publication-entry">
   <p class="publication-title-line"><a class="btn" href="https://iscaconf.org/isca2026/">ISCA'26</a> ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses <a href="/files/ICP.pdf">[PDF]</a> </p>
   <p class="publication-authors-line"><strong>Mengming Li</strong>, Chenlu Miao, Buqing Xu, Qijun Zhang, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie</p>
   <p class="publication-meta-line">International Symposium on Computer Architecture (ISCA), 2026.</p>
